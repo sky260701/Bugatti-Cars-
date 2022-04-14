@@ -1,0 +1,28 @@
+
+
+ .Toolbar{
+   display: flex;
+   
+   float: auto;
+ }
+ .text {
+   float: right;
+   margin-right: 40px;
+   padding-right: 10px;
+   text-align: right;
+ }
+ .menu {
+  margin-right: 100%;
+}
+ .logo {
+   width: 1%;
+   height: 1%;
+   align-items: center;
+   padding-right: 10px;
+ }
+ .back {
+    font-size: 30px;
+  background-image: url(/components/image5.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  }  

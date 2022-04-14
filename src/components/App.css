@@ -1,0 +1,755 @@
+
+
+ .Toolbar{
+   display: flex;
+   justify-content: space-between;
+   float: auto;
+ }
+ .text {
+   color: white;
+   float: right;
+   margin-right: 10px;
+   display:flex ;
+   text-align:inherit;
+   height: 80px;
+ }
+ .menu {
+  margin-right: 100%;
+}
+ .logo {
+   margin: auto;
+   width: 5px;
+   height: 90px;
+   align-items: center;
+   padding-right: 10px;
+   padding-top: 0px;
+   border-top: 0px;
+ }
+ .back {
+   color: white;
+    font-size: 20px;
+  background-image: url(backgroundimg.jpg);
+  width: 100%;
+  height: 562px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-left: 10px;
+  padding-top: 0px;
+  
+
+  }  
+  .location {
+    float: right;
+    margin-right: 10px;
+    height: 40px;
+    padding-top: 0px;
+  }
+  .appbar {
+    height: 65px;
+    
+  }
+  .One {
+    padding-left: 40px;
+    margin-left: 40px;
+    height: 300px;
+    width: 1200px;
+    
+  }
+  .Two {
+    float: right;
+    margin-right: 40px;
+    height: 660px;
+    width: 750px;
+    background-color: black;
+  }
+  .models {
+    padding-left: 40px;
+    font-size: 20px;
+  }
+  
+  .three {
+    margin-left: 40px;
+    width: 700px;
+    margin-bottom: 20px;
+    background-color: black;
+  }
+  .fifth {
+    width: 700px;
+    background-color:black;
+  }
+  .six {
+    float: right;
+    margin-right: 40px;
+  }
+  .img {
+    width: 500px;
+  }
+  .button {
+    background-color: black;
+    color: white;
+  }
+  .arrow {
+    float: right;
+    padding-right: 5px;
+  }
+  .party {
+    display: flex;
+    flex-direction: row;
+    width: 1000px;
+    border-left: 40px;
+    margin-left: 40px;
+    
+  }
+  .news {
+    display: flex;
+    flex-direction: row;
+  }
+  .partyy {
+    float: right;
+    position: relative;
+    left: 20px;
+  }
+  .press {
+    position: relative;
+    top: 200px;
+    padding-bottom: 10px;
+    
+  }
+  .eight {
+    margin-left: 40px;
+  }
+  .nine {
+    
+  }
+   .eleven {
+     font: normal;
+     position: relative;
+     left: 570px;
+     text-decoration: underline;
+     text-decoration-color: red;
+     
+   }
+   .instaOne {
+     background-image: url(https://scontent-frt3-2.cdninstagram.com/v/t51.2885-15/271233419_588728688888754_3390800642313229036_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=8ae9d6&_nc_ohc=okLhQSZZWjoAX_HHpmD&_nc_ht=scontent-frt3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT8evXksCIiHs_99-4bgLjsEyMR6IkMGxJ2rz-UwRitPcw&oe=61D7FAF9);
+   }
+   .heart {
+     float: right;
+     position: relative;
+     bottom: 375px;
+     right:10px;
+   }
+.insta {
+  background-image: url(./image20.jpg);
+  margin-left: 20px;
+   
+}
+.instaone {
+  background-image: url(./image21.jpg);
+}
+.instatwo {
+  background-image: url(./image22.jpg);
+}
+.instathree {
+  background-image: url(./image23.jpg);
+}
+.instafour {
+  background-image: url(./image24.jpg);
+  margin-left: 20px;
+}
+.instafive {
+  background-image: url(./image19.jpg);
+}
+.instasix {
+  background-image: url(./image25.jpg);
+}
+.instaseven {
+  background-image: url(./image26.jpg);
+}
+.hearted {
+  font-size:  20px;
+  float: left;
+     position: relative;
+     bottom: 355px;
+     left: 10px;
+}
+.socialmedia {
+  display:flex;
+  justify-content: center;
+}
+.copy {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+.foot {
+  background-color: black;
+}
+.link {
+  display: flex;
+  justify-content: center;
+  justify-content:space-around;
+  font-size: 12px;
+  color: white;
+}
+.great {
+  font-size: 40px;
+  color: transparent;
+  position:relative;
+  bottom: 150px;
+}
+.great:hover {
+  display: visible;
+  color: black;
+  position: relative;
+  bottom: 150px;
+}
+.fuel {
+  text-decoration: underline;
+}
+.discover {
+  text-decoration: none;
+}
+.side {
+  background-image: url(./side\ page.jpg);
+  width: 100vw;
+  height: 562px;
+  color: white;
+  
+  
+}
+.chiron {
+  padding-left: 50px;
+  
+  font-size: 60px;
+  top: 0px;
+}
+.ever {
+  padding-left: 80px;
+  position: relative;
+  top: 0px;
+  background-color:#514678 ;
+}
+.ultimate {
+  font-size: 20px;
+  top: 0px;
+}
+.been {
+  font-size: 40px;
+}
+.ferocious {
+  font-size: 17px;
+}
+.paragraph {
+  background-color:#514678;
+  margin-top: 0px;
+  color: white;
+}
+.gadi {
+  float: right;
+  padding-right: 30px;
+}
+.heritage {
+  display: flex;
+  justify-content: center;
+  font-size: 100px;
+ }
+.ab {
+  float: right;
+  padding-right: 40px;
+ }
+.redefine {
+  font-size: 20px;
+}
+.pedigree {
+  font-size: 17px;
+}
+.join {
+  font-size: 45px;
+}
+.mi {
+  font-size: 40px;
+}
+.ply {
+  padding-left: 350px;
+  font-size: 90px;
+}
+.plyer {
+  padding-left: 400px;
+  font-size: 90px;
+  height: 500px;
+}
+.plyer {
+  width: 80%;
+  height: 600px;
+ background-repeat: no-repeat;
+ background-image: url(./image29.jpg);
+ background-position: center;
+  background-size: 1200px 500px;
+  background-position-x: 100px;
+}
+.wind {
+  padding-left: 100px;
+  font-size: 20px;
+}
+.ma {
+  padding-left: 100px;
+  font-size: 40px;
+}
+.gi {
+  padding-left: 100px;
+}
+.re {
+  float: right;
+  padding-right: 20px;
+  font-size: 15px;
+}
+.ad {
+  padding-left: 100px;
+}
+.ta {
+  float: right;
+  padding-right: 30px;
+  color: white;
+  font-size: 80px;
+}
+.all {
+  overflow-x: hidden;
+}
+.ti {
+  float: right;
+  font-display: column;
+  padding-right: 480px;
+  color: white;
+  font-size: 20px;
+}
+.tr {
+  float: right;
+  font-size: 20px;
+  padding-right: 5px;
+  color: white;
+}
+.wi {
+  float: right;
+  color:white;
+  padding-right: 125px;
+}
+.ni {
+  float: right;
+  padding-right: 80px;
+  padding-left: 60px;
+}
+.im {
+  float: left;
+  padding-left: 40px;
+}
+.oo {
+  display: grid;
+  padding-right: 20px;
+}
+.ai {
+  display: flex;
+}
+.gn {
+  font-size: 40px;
+}
+.sensorial {
+  font-size: 60px;
+  padding-left: 250px;
+  width: 100%;
+  
+}
+.sen {
+  width: 90%;
+  height: 550px;
+  
+  font-size: 90px;
+  background-image: url(./image31.jpg);
+  background-size: 1200px 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  margin-left: 65px;
+}
+
+.exp {
+  padding-left: 250px;
+}
+.rial {
+  padding-left: 20px;
+  
+  display: flex;
+}
+.con {
+  display: grid;
+  font-size: 23px;
+  padding-left: 35px;
+  padding-right: 65px;
+}
+.lede {
+  display: grid;
+  float: right;
+  font-size: 15px;
+ 
+}
+.pw {
+  font-size: 20px;
+  padding-left:65px;
+}
+.lol {
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+}
+.owl {
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+}
+.las {
+  padding-left: 70px;
+  font-size: 20px;
+  padding-right: 80px;
+}
+.vy {
+  padding-left: 70px;
+  font-size: 20px;
+  padding-right: 20px;
+}
+.jo {
+  float: right;
+  
+}
+.gl {
+  display: flex;
+}
+.ko {
+  padding-right: 20px;
+}
+.fact {
+  
+  float: right;
+  color: white;
+  padding-right: 80px;
+}
+.fri {
+  font-size: 80px;
+}
+.mance {
+  font-size: 20px;
+}
+.diss {
+  font-size: 35px;
+}
+.pho {
+  padding-left: 70px;
+}
+.dotted {
+  display: flex;
+  justify-content: center;
+}
+.off {
+  font-size:60px;
+  color: black;
+  padding-left: 50px;
+  padding-top: 0px;
+
+}
+.good {
+  width: 1349px;
+  height: 569px;
+  background-image: url(./image35.jpg);
+  background-repeat: no-repeat;
+  padding-top: 50px;
+}
+
+.ale {
+  overflow-x: hidden;
+}
+.gar {
+  display: flex;
+}
+.nar {
+  padding-left: 30px;
+}
+.cheems {
+  padding-left: 50px;
+  font-size: 60px;
+}
+.jrr {
+  display:flex;
+  padding-left: 30px;
+}
+.err {
+  display: flex;
+  padding-left: 30px;
+}
+.edi {
+  padding-left: 40px;
+  font-size: 50px;
+}
+.bac {
+  color: white;
+  font-size: 30px;
+background-image: url(image48.jpg);
+width: 100%;
+height: 562px;
+background-repeat: no-repeat;
+background-size: 100%;
+padding-left: 10px;
+padding-top: 0px;
+
+}
+.bollide {
+  display: flex;
+  top: 50px;
+  justify-content: center;
+  padding-top: 0px;
+  font-size: 50px;
+}
+.watch {
+  color: white;
+  font-size: 20px;
+background-image: url(image49.jpg);
+width: 100%;
+height: 562px;
+background-repeat: no-repeat;
+background-size: 100%;
+padding-left: 10px;
+padding-top: 0px;
+}
+.pi {
+  display: flex;
+  justify-content: center;
+}
+.cs {
+  color: white;
+  font-size: 20px;
+background-image: url(image50.jpg);
+width: 100%;
+height: 562px;
+background-repeat: no-repeat;
+background-size: 100%;
+padding-left: 10px;
+padding-top: 0px;
+}
+.it {
+  padding-left: 50px;
+  font-size: 25px;
+}
+.civil {
+  color: black;
+  font-size: 20px;
+background-image: url(image51.jpg);
+width: 100%;
+height: 562px;
+background-repeat: no-repeat;
+background-size: 100%;
+padding-left: 10px;
+padding-top: 0px;
+}
+.chemical {
+  padding-left: 30px;
+  font-size: 60px;
+}
+.mech {
+  padding-left: 30px;
+}
+.keep {
+  background-image: url(image52.jpg);
+  width: 100%;
+  height: 569px;
+  font-size: 30px;
+}
+.saa {
+  padding-left: 50px;
+  color: white;
+}
+.mood {
+  padding-left: 40px;
+  font-size: 50px;
+}
+.hii {
+  display: flex;
+}
+.hre {
+padding-left: 40px;
+padding-right: 30px;
+}
+.heroine {
+  padding-right: 40px;
+  padding-left: 30px;
+}
+.lop {
+  color: gray;
+}
+.wall {
+  background-image: url(image53.jpg);
+  width: 100%;
+  height: 569px;
+}
+.wat {
+  padding-left: 50px;
+  font-size: 60px;
+}
+.dishes {
+  padding-left: 50px;
+  font-size: 50px;
+}
+.fp {
+  display:flex;
+}
+.fw {
+  padding-left: 50px;
+  padding-right: 30px;
+}
+.fg {
+  padding-right: 30px;
+  padding-left: 90px;
+}
+.chrimas {
+  padding-left: 40px;
+}
+.ds {
+  padding-left: 40px;
+  font-size: 50px;
+}
+.ips {
+  padding-left: 40px;
+}
+.dsp {
+  display: flex;
+}
+.grr {
+  padding-right: 40px;
+  padding-left: 390px;
+}
+.jio {
+  background-color:#2c2854;
+  color: white;
+  display: flex;
+}
+.bsnl {
+  padding-left: 40px;
+  padding-right: 50px;
+  width: 615px;
+  height: 350px;
+}
+.airtel {
+  padding-right: 40px;
+  padding-left: 50px;
+  width: 615px;
+  height: 350px;
+}
+.mass {
+  background-image: url(image56.jpg);
+  color:#85827b;
+  width: 1366px;
+  height: 733px;
+  display: block;
+}
+.pea {
+  font-size: 35px;
+  padding-left: 40px;
+}
+.yaho {
+  background-color: black;
+  color: white;
+}
+.yahW {
+  background-color: black;
+  color: white;
+  height: 60px;
+}
+.tear {
+  border-color: white;
+}
+.ryt {
+  display: flex;
+}
+.er {
+  padding-left: 30px;
+  
+}
+.jeek {
+ 
+  height: 450px;
+}
+.yre {
+  display: flex;
+}
+.frt {
+  width: 675px;
+  height: 450px;
+  padding-right: 20px;
+}
+.uii {
+  padding-right: 40px;
+}
+.dfj {
+  padding-left: 50px;
+  font-size: 50px;
+}
+.padd {
+  padding-left: 50px;
+}
+.tyop {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.DF {
+  float: right;
+}
+.hr {
+  color: black;
+}
+.dr {
+  width: 1349px;
+}
+.oe {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding-left: 40px;
+}
+.rq {
+  padding-left: 50px;
+  padding-right: 80px;
+  margin-right:190px;
+}
+.ob {
+  padding-right: 30px;
+  padding-left: 60px;
+}
+.xv {
+  display: flex;
+ justify-content: center;
+}
+.bv {
+  background-color: #f5f5f5;
+  height: 500px;
+}
+.az {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.sz {
+  background-color:#2c2854;
+}
+.eq {
+  background-color: #2c2854;
+}
+
+
+@media screen and (max-width: 480px)  {
+  .logo {
+    display: flex;
+    justify-content: center;
+    height: 88px;
+  }
+  .qw {
+    display: none;
+  }
+}
+  
+
+
+
